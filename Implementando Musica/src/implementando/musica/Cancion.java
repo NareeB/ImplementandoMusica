@@ -8,6 +8,7 @@ package implementando.musica;
  * @time 10:14:09 AM
  */
 public class Cancion extends Coleccion {
+
     private int ident;
     private int duracion;
     

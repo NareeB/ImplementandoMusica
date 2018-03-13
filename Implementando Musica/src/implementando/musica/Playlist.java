@@ -10,6 +10,11 @@ package implementando.musica;
 public class Playlist extends Coleccion {
     private Coleccion[] coleccion;
     
-    
+    public int getDuracion(){
+        
+    }
+    public int getCantidad(){
+        return Coleccion.size();
+    }
 
 }
